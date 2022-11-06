@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string-array name="lapangan">
+        <item>Angkasa Futsal Malang</item>
+        <item>Buana Futsal</item>
+        <item>Champions Futsal Puncak Mandala</item>
+        <item>Viva Futsal Malang</item>
+    </string-array>
+    <string-array name="star">
+        <item>4.8</item>
+        <item>4.7</item>
+        <item>4.6</item>
+        <item>4.5</item>
+    </string-array>
+    <string-array name="deskripsi">
+        <item>Open 24 Hours</item>
+        <item>Open from 9 am - 9 pm</item>
+        <item>Open from 8 am - 10 pm</item>
+        <item>Open from 7 am - 11 pm</item>
+    </string-array>
+</resources>
